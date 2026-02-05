@@ -33,6 +33,7 @@ Explainability Engine
 Human Analyst Decision
 
 Implemented ML Components
+
 1️⃣ Event-Level Autoencoder (Core Detection)
 
 Purpose
@@ -235,13 +236,20 @@ Reproducibility
 Enterprise relevance
 
 Current Status
-Component                	Status
-Event Autoencoder         	✅ Implemented
-GRU Sequence Model	      ✅ Implemented
-Explainability	            ✅ Implemented
-MITRE Rule Mapping      	✅ Implemented
-Backend Integration	      ⚠️ Interface ready
-Production Training	      ❌ Out of scope
+Component                      	Status
+
+Event Autoencoder               	✅ Implemented
+
+GRU Sequence Model      	      ✅ Implemented
+      
+Explainability	                  ✅ Implemented
+
+MITRE Rule Mapping            	✅ Implemented
+
+Backend Integration	            ⚠️ Interface ready
+
+Production Training	            ❌ Out of scope
+
 Research Positioning
 
 NSA-X ML demonstrates how neural models and symbolic reasoning can coexist, offering:
